@@ -1128,7 +1128,6 @@ mod Ctoken {
             self.emit(  NewMarketInterestRateModel { oldInterestRateModel: oldInterestRateModel, newInterestRateModel: newInterestRateModel })
             0;
         }
-
     }
 
 
